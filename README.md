@@ -1,6 +1,6 @@
 # Work Manager & LordKuper.Common — RimWorld 1.7 build
 
-**EN** · [RU ниже](#работный-менеджер--lordkupercommon-—-сборка-под-rimworld-17)
+**EN** · [RU ниже](#work-manager--lordkupercommon--сборка-под-rimworld-17)
 
 Unofficial community rebuild of **Work Manager** for **RimWorld 1.7**.
 
@@ -35,7 +35,7 @@ If this build saved you time — check out my other mods, or drop a coin:
 
 ---
 
-# Работный менеджер & LordKuper.Common — сборка под RimWorld 1.7
+# Work Manager & LordKuper.Common — сборка под RimWorld 1.7
 
 Неофициальная пересборка мода **Work Manager** для **RimWorld 1.7**.
 
